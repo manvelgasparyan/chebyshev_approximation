@@ -8,7 +8,7 @@ N = 6;
 m = 100;
 %-----------
 %The considered interval
-c = 4;         a = -2;         b = 4;
+a = -2;         b = 4;
 %-----------
 %The considered functions
 %f = @(t)-(3/2)*exp(-4*t) + 2*exp(-3*t) - (1/2)*exp(-2*t);
